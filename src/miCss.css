@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box{
+    width: 30%;
+    background-color: goldenrod;
+    font-size: 3em;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+    
+    border: 1px solid black;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    margin: 20px;
+}
+
+.nombre{
+    user-select: none;
+}
+
+img{
+    width: 100%;
+}
